@@ -1,0 +1,17 @@
+{
+  "name": "es5-next-null-character",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf .webpack-fs-cache && webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "memoizee": "^0.4.15",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
